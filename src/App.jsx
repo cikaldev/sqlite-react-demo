@@ -22,9 +22,9 @@ export default function App() {
         <p>SQLite-over-HTTP Database CRUD Example</p>
         <p className="nav">
           <a href="https://gate.warungds.com" target="_blank">Documentation</a>
-          <spa>&bull;</spa>
+          <span>&bull;</span>
           <a href="https://gate.warungds.com/sdk/js/index.js" target="_blank">SDK</a>
-          <spa>&bull;</spa>
+          <span>&bull;</span>
           <a href="https://github.com/cikaldev/sqlite-react-demo" target="_blank">Github</a>
         </p>
       </header>
